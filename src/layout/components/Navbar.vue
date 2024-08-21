@@ -18,7 +18,7 @@
               首页
             </el-dropdown-item>
           </router-link>
-          <a target="_blank" href="https://github.com/huanfenz">
+          <a target="_blank" href="https://github.com/Herb95">
             <el-dropdown-item>作者主页</el-dropdown-item>
           </a>
           <el-dropdown-item divided @click.native="logout">

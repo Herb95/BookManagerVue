@@ -69,7 +69,7 @@ const actions = {
         if (data.isadmin === 1) data['roles'] = ['admin']
         else data['roles'] = ['reader']
 
-        data['avatar'] = 'http://wangpeng-imgsubmit.oss-cn-hangzhou.aliyuncs.com/img/202112251517869.jpg'
+        data['avatar'] = 'http://Herb95-imgsubmit.oss-cn-hangzhou.aliyuncs.com/img/202112251517869.jpg'
 
         const { userid, roles, username, avatar } = data
 
